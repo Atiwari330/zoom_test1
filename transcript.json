@@ -1,0 +1,224 @@
+{
+  "meeting_uuid": "aYGwC+o8STOfCLB6ZNcp6Q==",
+  "transcribed_at": "2025-02-01T22:27:10.610958",
+  "num_channels": 2,
+  "utterances": [
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 14640,
+      "end_ms": 15980,
+      "text": "Hi, sir. Good afternoon.",
+      "confidence": 0.7330225
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 16800,
+      "end_ms": 18260,
+      "text": "Hey, Justin. How are you?",
+      "confidence": 0.997938
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 18720,
+      "end_ms": 20660,
+      "text": "I'm doing well, sir. How are you?",
+      "confidence": 0.97511286
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 20720,
+      "end_ms": 27620,
+      "text": "It's. I'm lucky you're on today. I didn't even know you were working, but I could use your. Your help. Hey.",
+      "confidence": 0.9792633
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 27340,
+      "end_ms": 28800,
+      "text": "I'll try my best.",
+      "confidence": 0.9549575
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 29000,
+      "end_ms": 38300,
+      "text": "No worries. No worries. I know you've. You pretty much worked a lot with NBH on their assistant setup, right?",
+      "confidence": 0.9266064
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 39580,
+      "end_ms": 45200,
+      "text": "Yes, sir. Well, not much anymore, but. Yeah, we used to do that.",
+      "confidence": 0.94828695
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 40920,
+      "end_ms": 58530,
+      "text": "Yeah. Right. What were the type of rules that we implemented for them, if you could remember? Maybe you don't remember, but, like, I don't think we had many rules. I think it was the ASAM assessment, the group sessions. Do you remember anything else?",
+      "confidence": 0.9736271
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 59430,
+      "end_ms": 61970,
+      "text": "Let me check. Actually, right now, sir.",
+      "confidence": 0.9996586
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 61190,
+      "end_ms": 63530,
+      "text": "Okay. Amazing. Thank you.",
+      "confidence": 0.902375
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 63990,
+      "end_ms": 68130,
+      "text": "Just logging in. Oh, no, it needs the code.",
+      "confidence": 0.87867415
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 72470,
+      "end_ms": 73930,
+      "text": "Always happens to me.",
+      "confidence": 0.9882125
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 82080,
+      "end_ms": 84420,
+      "text": "Still waiting for the code though.",
+      "confidence": 0.9876983
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 84000,
+      "end_ms": 86540,
+      "text": "Yeah. Take your time. Take your time. No worries.",
+      "confidence": 0.97815555
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 86320,
+      "end_ms": 87220,
+      "text": "All right.",
+      "confidence": 0.962865
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 88160,
+      "end_ms": 93700,
+      "text": "I don't even have access to that particular tenant anymore. Hopefully it's still working.",
+      "confidence": 0.96607
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 95920,
+      "end_ms": 102100,
+      "text": "I'm still sending the. Like the weekly report to them, so it's still up.",
+      "confidence": 0.95383215
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 102640,
+      "end_ms": 103380,
+      "text": "Good.",
+      "confidence": 0.97676
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 102650,
+      "end_ms": 105950,
+      "text": "Do you want. If I created you an account there?",
+      "confidence": 0.997902
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 105990,
+      "end_ms": 112570,
+      "text": "I probably have it already. No worries right now. I'll just. I'll get one next week. No worries at all.",
+      "confidence": 0.972569
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 113050,
+      "end_ms": 118910,
+      "text": "Okay, this code is not sending. Oh, there we go.",
+      "confidence": 0.9546478
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 128880,
+      "end_ms": 129620,
+      "text": "It.",
+      "confidence": 0.50579
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 129940,
+      "end_ms": 167850,
+      "text": "Just 10 code 10 rules that we have, sir. Group session or clinical note. Individual session, which is one day after admission, 12 hours. The service duration, one and three hours, must be between one and three hours. Group session for PHP or IOP or residential. Greater than or equal to three hours.",
+      "confidence": 0.8301247
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 172410,
+      "end_ms": 178230,
+      "text": "Perfect. Do we have. Do we have anything for treatment planning? Did they put anything for treatment planning.",
+      "confidence": 0.9868867
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 172950,
+      "end_ms": 182690,
+      "text": "Detox. No, sir, just ASAM and residential.",
+      "confidence": 0.9591783
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 183620,
+      "end_ms": 187400,
+      "text": "For ASAM and residential? What is. Like. What's the rule again?",
+      "confidence": 0.97110724
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 187790,
+      "end_ms": 212650,
+      "text": "A detox. Residential. Well, we have four group sessions or clinical notes for IOP, PHP, detox and residential. Then ASAM, detox admission, ASAM, detox, continued residential, continued detox discharge, residential admission and residential discharge.",
+      "confidence": 0.84331137
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 213230,
+      "end_ms": 227650,
+      "text": "Got it. Okay. Okay, that's perfect. You know what? I think that's all I need. Yeah. Justin. Much appreciated, my friend. I may give you a ring back, but I don't think so. I. I think this is enough. All right.",
+      "confidence": 0.9448327
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 228030,
+      "end_ms": 229850,
+      "text": "Don't worry, sir. I'll be ready.",
+      "confidence": 0.8878033
+    },
+    {
+      "participant": "Adi Tiwari",
+      "start_ms": 229710,
+      "end_ms": 232790,
+      "text": "Thanks, Justin. Have a good one, man. Thank you. Bye.",
+      "confidence": 0.985265
+    },
+    {
+      "participant": "UnknownChannel2",
+      "start_ms": 231310,
+      "end_ms": 232198,
+      "text": "Thank you.",
+      "confidence": 0.99794
+    }
+  ]
+}
